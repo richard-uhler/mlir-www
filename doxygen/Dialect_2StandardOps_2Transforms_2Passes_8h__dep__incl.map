@@ -1,0 +1,9 @@
+<map id="include/mlir/Dialect/StandardOps/Transforms/Passes.h" name="include/mlir/Dialect/StandardOps/Transforms/Passes.h">
+<area shape="rect" id="node2" href="$InitAllPasses_8h.html" title="include/mlir/InitAllPasses.h" alt="" coords="5,117,185,143"/>
+<area shape="rect" id="node3" href="$Dialect_2Linalg_2Transforms_2Bufferize_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Bufferize.cpp" alt="" coords="210,109,383,151"/>
+<area shape="rect" id="node4" href="$Dialect_2StandardOps_2Transforms_2Bufferize_8cpp.html" title="lib/Dialect/StandardOps\l/Transforms/Bufferize.cpp" alt="" coords="407,109,581,151"/>
+<area shape="rect" id="node5" href="$ExpandOps_8cpp.html" title="lib/Dialect/StandardOps\l/Transforms/ExpandOps.cpp" alt="" coords="605,109,794,151"/>
+<area shape="rect" id="node6" href="$ExpandTanh_8cpp.html" title="lib/Dialect/StandardOps\l/Transforms/ExpandTanh.cpp" alt="" coords="818,109,1013,151"/>
+<area shape="rect" id="node7" href="$FuncBufferize_8cpp.html" title="lib/Dialect/StandardOps\l/Transforms/FuncBufferize.cpp" alt="" coords="1037,109,1239,151"/>
+<area shape="rect" id="node8" href="$TensorConstantBufferize_8cpp.html" title="lib/Dialect/StandardOps\l/Transforms/TensorConstantBufferize.cpp" alt="" coords="1263,109,1530,151"/>
+</map>

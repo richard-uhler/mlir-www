@@ -1,0 +1,15 @@
+<map id="mlir::detail::ConversionPatternRewriterImpl" name="mlir::detail::ConversionPatternRewriterImpl">
+<area shape="rect" id="node3" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l OperationTransactionState, 4 \&gt;" alt="" coords="533,78,741,119"/>
+<area shape="rect" id="node4" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l T, N \&gt;" alt="" coords="151,177,284,218"/>
+<area shape="rect" id="node5" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l mlir::BlockArgument, 4 \&gt;" alt="" coords="552,143,723,185"/>
+<area shape="rect" id="node11" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l unsigned, 4 \&gt;" alt="" coords="571,209,704,250"/>
+<area shape="rect" id="node12" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l BlockAction, 4 \&gt;" alt="" coords="571,274,704,315"/>
+<area shape="rect" id="node7" title="This class wraps a BlockAndValueMapping to provide recursive lookup functionality, i.e. " alt="" coords="566,391,709,417"/>
+<area shape="rect" id="node9" title="This class provides a simple interface for converting the types of block arguments. " alt="" coords="553,492,721,519"/>
+<area shape="rect" id="node10" href="$classmlir_1_1TypeConverter.html" title="Type conversion class. " alt="" coords="149,557,286,584"/>
+<area shape="rect" id="node16" href="$classmlir_1_1ConversionPattern.html" title="Base class for the conversion patterns. " alt="" coords="558,605,717,632"/>
+<area shape="rect" id="node14" href="$classllvm_1_1SmallPtrSet.html" title="llvm::SmallPtrSet\&lt;\l mlir::Operation *, 1 \&gt;" alt="" coords="564,707,711,749"/>
+<area shape="rect" id="node15" href="$classllvm_1_1SmallPtrSet.html" title="llvm::SmallPtrSet\&lt;\l T, N \&gt;" alt="" coords="151,707,283,749"/>
+<area shape="rect" id="node17" href="$classmlir_1_1RewritePattern.html" title="RewritePattern is the common base class for all DAG to DAG replacements. " alt="" coords="148,623,287,649"/>
+<area shape="rect" id="node18" href="$classmlir_1_1Pattern.html" title="This class contains all of the data related to a pattern, but does not contain any methods or logic f..." alt="" coords="5,623,99,649"/>
+</map>

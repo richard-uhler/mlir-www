@@ -1,0 +1,28 @@
+<map id="include/mlir/Dialect/SPIRV/SPIRVOps.h" name="include/mlir/Dialect/SPIRV/SPIRVOps.h">
+<area shape="rect" id="node2" href="$ParserUtils_8h.html" title="include/mlir/Dialect\l/SPIRV/ParserUtils.h" alt="" coords="287,102,434,143"/>
+<area shape="rect" id="node3" href="$SPIRVDialect_8cpp.html" title="lib/Dialect/SPIRV/SPIRVDialect.cpp" alt="" coords="5,206,241,233"/>
+<area shape="rect" id="node4" href="$SPIRVOps_8cpp.html" title="lib/Dialect/SPIRV/SPIRVOps.cpp" alt="" coords="266,206,485,233"/>
+<area shape="rect" id="node5" href="$SPIRVModule_8h.html" title="include/mlir/Dialect\l/SPIRV/SPIRVModule.h" alt="" coords="751,102,917,143"/>
+<area shape="rect" id="node7" href="$ModuleCombiner_8cpp.html" title="lib/Dialect/SPIRV/Linking\l/ModuleCombiner/ModuleCombiner.cpp" alt="" coords="562,288,813,329"/>
+<area shape="rect" id="node8" href="$Deserialization_8cpp.html" title="lib/Target/SPIRV/Deserialization.cpp" alt="" coords="967,206,1203,233"/>
+<area shape="rect" id="node9" href="$TranslateRegistration_8cpp.html" title="lib/Target/SPIRV/Translate\lRegistration.cpp" alt="" coords="559,199,738,240"/>
+<area shape="rect" id="node10" href="$SPIRVBinaryUtils_8h.html" title="include/mlir/Target\l/SPIRV/SPIRVBinaryUtils.h" alt="" coords="991,102,1178,143"/>
+<area shape="rect" id="node11" href="$Serialization_8cpp.html" title="lib/Target/SPIRV/Serialization.cpp" alt="" coords="1454,206,1675,233"/>
+<area shape="rect" id="node13" href="$ConvertGPUToSPIRV_8cpp.html" title="lib/Conversion/GPUToSPIRV\l/ConvertGPUToSPIRV.cpp" alt="" coords="1253,102,1447,143"/>
+<area shape="rect" id="node14" href="$ConvertGPUToSPIRVPass_8cpp.html" title="lib/Conversion/GPUToSPIRV\l/ConvertGPUToSPIRVPass.cpp" alt="" coords="1472,102,1684,143"/>
+<area shape="rect" id="node15" href="$ConvertGPULaunchFuncToVulkanLaunchFunc_8cpp.html" title="lib/Conversion/GPUToVulkan\l/ConvertGPULaunchFuncToVulkanLaunch\lFunc.cpp" alt="" coords="1709,95,1978,151"/>
+<area shape="rect" id="node16" href="$LinalgToSPIRV_8cpp.html" title="lib/Conversion/LinalgToSPIRV\l/LinalgToSPIRV.cpp" alt="" coords="2003,102,2201,143"/>
+<area shape="rect" id="node17" href="$SCFToSPIRV_8cpp.html" title="lib/Conversion/SCFToSPIRV\l/SCFToSPIRV.cpp" alt="" coords="2226,102,2418,143"/>
+<area shape="rect" id="node18" href="$ConvertLaunchFuncToLLVMCalls_8cpp.html" title="lib/Conversion/SPIRVToLLVM\l/ConvertLaunchFuncToLLVMCalls.cpp" alt="" coords="2443,102,2689,143"/>
+<area shape="rect" id="node19" href="$ConvertSPIRVToLLVM_8cpp.html" title="lib/Conversion/SPIRVToLLVM\l/ConvertSPIRVToLLVM.cpp" alt="" coords="2713,102,2912,143"/>
+<area shape="rect" id="node20" href="$ConvertStandardToSPIRV_8cpp.html" title="lib/Conversion/StandardTo\lSPIRV/ConvertStandardToSPIRV.cpp" alt="" coords="2936,102,3183,143"/>
+<area shape="rect" id="node21" href="$VectorToSPIRV_8cpp.html" title="lib/Conversion/VectorToSPIRV\l/VectorToSPIRV.cpp" alt="" coords="3207,102,3410,143"/>
+<area shape="rect" id="node22" href="$SPIRVCanonicalization_8cpp.html" title="lib/Dialect/SPIRV/SPIRVCanonicalization.cpp" alt="" coords="3434,109,3725,136"/>
+<area shape="rect" id="node23" href="$SPIRVLowering_8cpp.html" title="lib/Dialect/SPIRV/SPIRVLowering.cpp" alt="" coords="3749,109,3996,136"/>
+<area shape="rect" id="node24" href="$DecorateSPIRVCompositeTypeLayoutPass_8cpp.html" title="lib/Dialect/SPIRV/Transforms\l/DecorateSPIRVCompositeTypeLayout\lPass.cpp" alt="" coords="4021,95,4271,151"/>
+<area shape="rect" id="node25" href="$LowerABIAttributesPass_8cpp.html" title="lib/Dialect/SPIRV/Transforms\l/LowerABIAttributesPass.cpp" alt="" coords="4295,102,4490,143"/>
+<area shape="rect" id="node26" href="$RewriteInsertsPass_8cpp.html" title="lib/Dialect/SPIRV/Transforms\l/RewriteInsertsPass.cpp" alt="" coords="4514,102,4709,143"/>
+<area shape="rect" id="node27" href="$UpdateVCEPass_8cpp.html" title="lib/Dialect/SPIRV/Transforms\l/UpdateVCEPass.cpp" alt="" coords="4733,102,4927,143"/>
+<area shape="rect" id="node6" href="$ModuleCombiner_8h.html" title="include/mlir/Dialect\l/SPIRV/ModuleCombiner.h" alt="" coords="763,199,943,240"/>
+<area shape="rect" id="node12" href="$SPIRVBinaryUtils_8cpp.html" title="lib/Target/SPIRV/SPIRVBinary\lUtils.cpp" alt="" coords="1227,199,1430,240"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="lib/Dialect/LLVMIR/IR/TypeDetail.h" name="lib/Dialect/LLVMIR/IR/TypeDetail.h">
+<area shape="rect" id="node2" href="$LLVMTypes_8h.html" title="mlir/Dialect/LLVMIR\l/LLVMTypes.h" alt="" coords="1457,95,1597,136"/>
+<area shape="rect" id="node3" href="$Types_8h.html" title="mlir/IR/Types.h" alt="" coords="1471,184,1583,211"/>
+<area shape="rect" id="node4" href="$TypeSupport_8h.html" title="mlir/IR/TypeSupport.h" alt="" coords="1187,259,1338,285"/>
+<area shape="rect" id="node5" href="$MLIRContext_8h.html" title="mlir/IR/MLIRContext.h" alt="" coords="1185,408,1340,435"/>
+<area shape="rect" id="node15" href="$StorageUniquerSupport_8h.html" title="mlir/IR/StorageUniquerSupport.h" alt="" coords="888,333,1099,360"/>
+<area shape="rect" id="node6" href="$LLVM_8h.html" title="mlir/Support/LLVM.h" alt="" coords="584,565,725,591"/>
+<area shape="rect" id="node9" href="$TypeID_8h.html" title="mlir/Support/TypeID.h" alt="" coords="1007,483,1158,509"/>
+<area shape="rect" id="node16" href="$InterfaceSupport_8h.html" title="mlir/Support/InterfaceSupport.h" alt="" coords="813,408,1016,435"/>
+<area shape="rect" id="node19" href="$LogicalResult_8h.html" title="mlir/Support/LogicalResult.h" alt="" coords="5,483,192,509"/>
+<area shape="rect" id="node21" href="$StorageUniquer_8h.html" title="mlir/Support/StorageUniquer.h" alt="" coords="367,408,564,435"/>
+</map>

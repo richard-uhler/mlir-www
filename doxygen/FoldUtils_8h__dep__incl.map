@@ -1,0 +1,12 @@
+<map id="include/mlir/Transforms/FoldUtils.h" name="include/mlir/Transforms/FoldUtils.h">
+<area shape="rect" id="node2" href="$FoldedIntrinsics_8h.html" title="include/mlir/Dialect\l/Linalg/EDSC/FoldedIntrinsics.h" alt="" coords="156,95,365,136"/>
+<area shape="rect" id="node3" href="$Loops_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Loops.cpp" alt="" coords="5,184,161,225"/>
+<area shape="rect" id="node4" href="$Promotion_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Promotion.cpp" alt="" coords="185,184,365,225"/>
+<area shape="rect" id="node5" href="$Tiling_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Tiling.cpp" alt="" coords="390,184,542,225"/>
+<area shape="rect" id="node6" href="$SuperVectorize_8cpp.html" title="lib/Dialect/Affine\l/Transforms/SuperVectorize.cpp" alt="" coords="491,95,702,136"/>
+<area shape="rect" id="node7" href="$DropUnitDims_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/DropUnitDims.cpp" alt="" coords="727,95,931,136"/>
+<area shape="rect" id="node8" href="$TosaOps_8cpp.html" title="lib/Dialect/Tosa/IR\l/TosaOps.cpp" alt="" coords="955,95,1086,136"/>
+<area shape="rect" id="node9" href="$SCCP_8cpp.html" title="lib/Transforms/SCCP.cpp" alt="" coords="1111,102,1283,129"/>
+<area shape="rect" id="node10" href="$FoldUtils_8cpp.html" title="lib/Transforms/Utils\l/FoldUtils.cpp" alt="" coords="1307,95,1443,136"/>
+<area shape="rect" id="node11" href="$GreedyPatternRewriteDriver_8cpp.html" title="lib/Transforms/Utils\l/GreedyPatternRewriteDriver.cpp" alt="" coords="1468,95,1683,136"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="include/mlir/Dialect/Quant/QuantOps.h" name="include/mlir/Dialect/Quant/QuantOps.h">
+<area shape="rect" id="node2" href="$TosaOps_8h.html" title="include/mlir/Dialect\l/Tosa/IR/TosaOps.h" alt="" coords="355,95,496,136"/>
+<area shape="rect" id="node7" href="$InitAllDialects_8h.html" title="include/mlir/InitAllDialects.h" alt="" coords="495,191,679,218"/>
+<area shape="rect" id="node10" href="$QuantOps_8cpp.html" title="lib/Dialect/Quant/IR\l/QuantOps.cpp" alt="" coords="582,95,719,136"/>
+<area shape="rect" id="node11" href="$QuantTypes_8cpp.html" title="lib/Dialect/Quant/IR\l/QuantTypes.cpp" alt="" coords="743,95,881,136"/>
+<area shape="rect" id="node12" href="$Dialect_2Quant_2IR_2TypeParser_8cpp.html" title="lib/Dialect/Quant/IR\l/TypeParser.cpp" alt="" coords="905,95,1042,136"/>
+<area shape="rect" id="node13" href="$ConvertConst_8cpp.html" title="lib/Dialect/Quant/Transforms\l/ConvertConst.cpp" alt="" coords="1067,95,1256,136"/>
+<area shape="rect" id="node14" href="$ConvertSimQuant_8cpp.html" title="lib/Dialect/Quant/Transforms\l/ConvertSimQuant.cpp" alt="" coords="1280,95,1469,136"/>
+<area shape="rect" id="node3" href="$QuantUtils_8h.html" title="include/mlir/Dialect\l/Tosa/Utils/QuantUtils.h" alt="" coords="188,184,351,225"/>
+<area shape="rect" id="node4" href="$TosaOps_8cpp.html" title="lib/Dialect/Tosa/IR\l/TosaOps.cpp" alt="" coords="5,273,136,315"/>
+<area shape="rect" id="node5" href="$TosaMakeBroadcastable_8cpp.html" title="lib/Dialect/Tosa/Transforms\l/TosaMakeBroadcastable.cpp" alt="" coords="328,273,523,315"/>
+<area shape="rect" id="node6" href="$QuantUtils_8cpp.html" title="lib/Dialect/Tosa/Utils\l/QuantUtils.cpp" alt="" coords="160,273,304,315"/>
+<area shape="rect" id="node8" href="$Registration_8cpp.html" title="lib/CAPI/Registration\l/Registration.cpp" alt="" coords="547,273,693,315"/>
+<area shape="rect" id="node9" href="$JitRunner_8cpp.html" title="lib/ExecutionEngine\l/JitRunner.cpp" alt="" coords="717,273,854,315"/>
+</map>

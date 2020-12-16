@@ -1,0 +1,7 @@
+<map id="mlir::detail::DialectInterfaceBase&lt; ConcreteType, BaseT &gt;" name="mlir::detail::DialectInterfaceBase&lt; ConcreteType, BaseT &gt;">
+<area shape="rect" id="node3" href="$classmlir_1_1DialectDecodeAttributesInterface.html" title="Define an interface to decode opaque constant tensor. " alt="" coords="365,5,592,61"/>
+<area shape="rect" id="node4" href="$classmlir_1_1DialectFoldInterface.html" title="Define a fold interface to allow for dialects to control specific aspects of the folding behavior for..." alt="" coords="395,86,563,127"/>
+<area shape="rect" id="node5" href="$classmlir_1_1DialectInlinerInterface.html" title="This is the interface that must be implemented by the dialects of operations to be inlined..." alt="" coords="389,151,568,193"/>
+<area shape="rect" id="node6" href="$classmlir_1_1OpAsmDialectInterface.html" title="mlir::OpAsmDialectInterface\l\&lt; OpAsmDialectInterface \&gt;" alt="" coords="385,217,572,258"/>
+<area shape="rect" id="node2" href="$classBaseT.html" title="BaseT" alt="" coords="5,127,65,153"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="include/mlir/Dialect/SPIRV/SPIRVModule.h" name="include/mlir/Dialect/SPIRV/SPIRVModule.h">
+<area shape="rect" id="node2" href="$ModuleCombiner_8h.html" title="include/mlir/Dialect\l/SPIRV/ModuleCombiner.h" alt="" coords="41,95,221,136"/>
+<area shape="rect" id="node4" href="$Deserialization_8cpp.html" title="lib/Target/SPIRV/Deserialization.cpp" alt="" coords="245,102,481,129"/>
+<area shape="rect" id="node5" href="$TranslateRegistration_8cpp.html" title="lib/Target/SPIRV/Translate\lRegistration.cpp" alt="" coords="505,95,684,136"/>
+<area shape="rect" id="node3" href="$ModuleCombiner_8cpp.html" title="lib/Dialect/SPIRV/Linking\l/ModuleCombiner/ModuleCombiner.cpp" alt="" coords="5,184,256,225"/>
+</map>

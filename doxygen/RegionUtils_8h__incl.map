@@ -1,0 +1,20 @@
+<map id="include/mlir/Transforms/RegionUtils.h" name="include/mlir/Transforms/RegionUtils.h">
+<area shape="rect" id="node2" href="$IR_2Region_8h.html" title="mlir/IR/Region.h" alt="" coords="1311,95,1428,121"/>
+<area shape="rect" id="node5" href="$Value_8h.html" title="mlir/IR/Value.h" alt="" coords="1215,319,1324,345"/>
+<area shape="rect" id="node3" href="$Block_8h.html" title="mlir/IR/Block.h" alt="" coords="1683,169,1792,196"/>
+<area shape="rect" id="node4" href="$BlockSupport_8h.html" title="mlir/IR/BlockSupport.h" alt="" coords="1781,244,1936,271"/>
+<area shape="rect" id="node38" href="$Visitors_8h.html" title="mlir/IR/Visitors.h" alt="" coords="1724,767,1844,793"/>
+<area shape="rect" id="node6" href="$Types_8h.html" title="mlir/IR/Types.h" alt="" coords="824,543,936,569"/>
+<area shape="rect" id="node9" href="$LLVM_8h.html" title="mlir/Support/LLVM.h" alt="" coords="1379,923,1520,950"/>
+<area shape="rect" id="node29" href="$UseDefLists_8h.html" title="mlir/IR/UseDefLists.h" alt="" coords="264,393,413,420"/>
+<area shape="rect" id="node7" href="$TypeSupport_8h.html" title="mlir/IR/TypeSupport.h" alt="" coords="633,617,783,644"/>
+<area shape="rect" id="node8" href="$MLIRContext_8h.html" title="mlir/IR/MLIRContext.h" alt="" coords="563,692,717,719"/>
+<area shape="rect" id="node18" href="$StorageUniquerSupport_8h.html" title="mlir/IR/StorageUniquerSupport.h" alt="" coords="741,692,952,719"/>
+<area shape="rect" id="node12" href="$TypeID_8h.html" title="mlir/Support/TypeID.h" alt="" coords="419,841,570,868"/>
+<area shape="rect" id="node19" href="$InterfaceSupport_8h.html" title="mlir/Support/InterfaceSupport.h" alt="" coords="745,767,948,793"/>
+<area shape="rect" id="node22" href="$LogicalResult_8h.html" title="mlir/Support/LogicalResult.h" alt="" coords="1487,841,1673,868"/>
+<area shape="rect" id="node24" href="$StorageUniquer_8h.html" title="mlir/Support/StorageUniquer.h" alt="" coords="1156,767,1353,793"/>
+<area shape="rect" id="node30" href="$Location_8h.html" title="mlir/IR/Location.h" alt="" coords="43,468,168,495"/>
+<area shape="rect" id="node31" href="$Attributes_8h.html" title="mlir/IR/Attributes.h" alt="" coords="115,543,247,569"/>
+<area shape="rect" id="node32" href="$AttributeSupport_8h.html" title="mlir/IR/AttributeSupport.h" alt="" coords="437,617,608,644"/>
+</map>

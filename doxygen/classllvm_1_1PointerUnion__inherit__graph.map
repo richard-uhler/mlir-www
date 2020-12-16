@@ -1,0 +1,11 @@
+<map id="llvm::PointerUnion&lt; PT &gt;" name="llvm::PointerUnion&lt; PT &gt;">
+<area shape="rect" id="node2" href="$structmlir_1_1CallInterfaceCallable.html" title="A callable is either a symbol, or an SSA value, that is referenced by a call&#45;like operation..." alt="" coords="395,5,568,47"/>
+<area shape="rect" id="node3" href="$classmlir_1_1OpFoldResult.html" title="This class represents a single result from folding an operation. " alt="" coords="413,71,549,112"/>
+<area shape="rect" id="node4" href="$classllvm_1_1PointerUnion.html" title="llvm::PointerUnion\l\&lt; Identifier, const\l AbstractOperation * \&gt;" alt="" coords="405,137,557,193"/>
+<area shape="rect" id="node5" href="$classllvm_1_1PointerUnion.html" title="llvm::PointerUnion\l\&lt; Attribute, Value \&gt;" alt="" coords="413,217,549,259"/>
+<area shape="rect" id="node6" href="$classllvm_1_1PointerUnion.html" title="llvm::PointerUnion\l\&lt; mlir::detail::NestedAnalysis\lMap *, mlir::PassInstrumentor *\&gt;" alt="" coords="375,283,588,339"/>
+<area shape="rect" id="node7" href="$classllvm_1_1PointerUnion.html" title="llvm::PointerUnion\l\&lt; const mlir::Value\l *, mlir::OpOperand *,\l void *\&gt;" alt="" coords="408,364,555,435"/>
+<area shape="rect" id="node8" href="$classllvm_1_1PointerUnion.html" title="llvm::PointerUnion\l\&lt; SymbolRefAttr, Value \&gt;" alt="" coords="395,459,568,500"/>
+<area shape="rect" id="node9" href="$classllvm_1_1PointerUnion.html" title="llvm::PointerUnion\l\&lt; mlir::SymbolRefAttr,\l mlir::Value \&gt;" alt="" coords="405,525,558,581"/>
+<area shape="rect" id="node10" href="$classllvm_1_1PointerUnion.html" title="llvm::PointerUnion\l\&lt; llvm::PointerUnion,\l mlir::Value \&gt;" alt="" coords="409,605,554,661"/>
+</map>

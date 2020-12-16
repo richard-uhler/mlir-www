@@ -1,0 +1,8 @@
+<map id="include/mlir/Dialect/SCF/Passes.h" name="include/mlir/Dialect/SCF/Passes.h">
+<area shape="rect" id="node2" href="$InitAllPasses_8h.html" title="include/mlir/InitAllPasses.h" alt="" coords="5,102,185,129"/>
+<area shape="rect" id="node3" href="$Dialect_2SCF_2Transforms_2Bufferize_8cpp.html" title="lib/Dialect/SCF/Transforms\l/Bufferize.cpp" alt="" coords="210,95,391,136"/>
+<area shape="rect" id="node4" href="$LoopSpecialization_8cpp.html" title="lib/Dialect/SCF/Transforms\l/LoopSpecialization.cpp" alt="" coords="415,95,597,136"/>
+<area shape="rect" id="node5" href="$ParallelLoopFusion_8cpp.html" title="lib/Dialect/SCF/Transforms\l/ParallelLoopFusion.cpp" alt="" coords="621,95,802,136"/>
+<area shape="rect" id="node6" href="$ParallelLoopTiling_8cpp.html" title="lib/Dialect/SCF/Transforms\l/ParallelLoopTiling.cpp" alt="" coords="826,95,1007,136"/>
+<area shape="rect" id="node7" href="$SCF_2Transforms_2StructuralTypeConversions_8cpp.html" title="lib/Dialect/SCF/Transforms\l/StructuralTypeConversions.cpp" alt="" coords="1032,95,1241,136"/>
+</map>

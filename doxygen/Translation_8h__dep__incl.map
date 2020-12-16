@@ -1,0 +1,11 @@
+<map id="include/mlir/Translation.h" name="include/mlir/Translation.h">
+<area shape="rect" id="node2" href="$ConvertFromLLVMIR_8cpp.html" title="lib/Target/LLVMIR/Convert\lFromLLVMIR.cpp" alt="" coords="5,80,184,121"/>
+<area shape="rect" id="node3" href="$ConvertToLLVMIR_8cpp.html" title="lib/Target/LLVMIR/Convert\lToLLVMIR.cpp" alt="" coords="208,80,387,121"/>
+<area shape="rect" id="node4" href="$ConvertToNVVMIR_8cpp.html" title="lib/Target/LLVMIR/Convert\lToNVVMIR.cpp" alt="" coords="411,80,589,121"/>
+<area shape="rect" id="node5" href="$ConvertToROCDLIR_8cpp.html" title="lib/Target/LLVMIR/Convert\lToROCDLIR.cpp" alt="" coords="613,80,792,121"/>
+<area shape="rect" id="node6" href="$LLVMArmNeonIntr_8cpp.html" title="lib/Target/LLVMIR/LLVMArm\lNeonIntr.cpp" alt="" coords="817,80,1007,121"/>
+<area shape="rect" id="node7" href="$LLVMArmSVEIntr_8cpp.html" title="lib/Target/LLVMIR/LLVMArm\lSVEIntr.cpp" alt="" coords="1031,80,1222,121"/>
+<area shape="rect" id="node8" href="$LLVMAVX512Intr_8cpp.html" title="lib/Target/LLVMIR/LLVMAVX512\lIntr.cpp" alt="" coords="1246,80,1461,121"/>
+<area shape="rect" id="node9" href="$TranslateRegistration_8cpp.html" title="lib/Target/SPIRV/Translate\lRegistration.cpp" alt="" coords="1485,80,1664,121"/>
+<area shape="rect" id="node10" href="$Translation_8cpp.html" title="lib/Translation/Translation.cpp" alt="" coords="1689,87,1885,114"/>
+</map>

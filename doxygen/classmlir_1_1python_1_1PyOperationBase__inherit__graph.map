@@ -1,0 +1,4 @@
+<map id="mlir::python::PyOperationBase" name="mlir::python::PyOperationBase">
+<area shape="rect" id="node2" href="$classmlir_1_1python_1_1PyOperation.html" title="mlir::python::PyOperation" alt="" coords="5,80,176,107"/>
+<area shape="rect" id="node3" href="$classmlir_1_1python_1_1PyOpView.html" title="A PyOpView is equivalent to the C++ &quot;Op&quot; wrappers: these are the basis for providing more instance&#45;sp..." alt="" coords="200,80,360,107"/>
+</map>

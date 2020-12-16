@@ -1,0 +1,12 @@
+<map id="include/mlir/Dialect/Traits.h" name="include/mlir/Dialect/Traits.h">
+<area shape="rect" id="node2" href="$TosaOps_8h.html" title="include/mlir/Dialect\l/Tosa/IR/TosaOps.h" alt="" coords="276,95,417,136"/>
+<area shape="rect" id="node10" href="$Shape_8cpp.html" title="lib/Dialect/Shape/IR\l/Shape.cpp" alt="" coords="441,95,580,136"/>
+<area shape="rect" id="node11" href="$Traits_8cpp.html" title="lib/Dialect/Traits.cpp" alt="" coords="605,102,747,129"/>
+<area shape="rect" id="node3" href="$QuantUtils_8h.html" title="include/mlir/Dialect\l/Tosa/Utils/QuantUtils.h" alt="" coords="169,184,332,225"/>
+<area shape="rect" id="node4" href="$TosaOps_8cpp.html" title="lib/Dialect/Tosa/IR\l/TosaOps.cpp" alt="" coords="5,273,136,315"/>
+<area shape="rect" id="node5" href="$TosaMakeBroadcastable_8cpp.html" title="lib/Dialect/Tosa/Transforms\l/TosaMakeBroadcastable.cpp" alt="" coords="328,273,523,315"/>
+<area shape="rect" id="node7" href="$InitAllDialects_8h.html" title="include/mlir/InitAllDialects.h" alt="" coords="528,191,712,218"/>
+<area shape="rect" id="node6" href="$QuantUtils_8cpp.html" title="lib/Dialect/Tosa/Utils\l/QuantUtils.cpp" alt="" coords="160,273,304,315"/>
+<area shape="rect" id="node8" href="$Registration_8cpp.html" title="lib/CAPI/Registration\l/Registration.cpp" alt="" coords="547,273,693,315"/>
+<area shape="rect" id="node9" href="$JitRunner_8cpp.html" title="lib/ExecutionEngine\l/JitRunner.cpp" alt="" coords="717,273,854,315"/>
+</map>

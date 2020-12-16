@@ -1,0 +1,33 @@
+<map id="include/mlir/Transforms/Passes.h" name="include/mlir/Transforms/Passes.h">
+<area shape="rect" id="node2" href="$InitAllPasses_8h.html" title="include/mlir/InitAllPasses.h" alt="" coords="5,102,185,129"/>
+<area shape="rect" id="node3" href="$OptReductionPass_8h.html" title="include/mlir/Reducer\l/OptReductionPass.h" alt="" coords="210,95,357,136"/>
+<area shape="rect" id="node4" href="$Passes_8cpp.html" title="lib/CAPI/Transforms\l/Passes.cpp" alt="" coords="381,95,522,136"/>
+<area shape="rect" id="node5" href="$AffineToStandard_8cpp.html" title="lib/Conversion/AffineToStandard\l/AffineToStandard.cpp" alt="" coords="546,95,757,136"/>
+<area shape="rect" id="node6" href="$LinalgToLLVM_8cpp.html" title="lib/Conversion/LinalgToLLVM\l/LinalgToLLVM.cpp" alt="" coords="781,95,973,136"/>
+<area shape="rect" id="node7" href="$SCFToGPU_8cpp.html" title="lib/Conversion/SCFToGPU\l/SCFToGPU.cpp" alt="" coords="997,95,1177,136"/>
+<area shape="rect" id="node8" href="$SCFToStandard_8cpp.html" title="lib/Conversion/SCFToStandard\l/SCFToStandard.cpp" alt="" coords="1202,95,1405,136"/>
+<area shape="rect" id="node9" href="$StandardToLLVM_8cpp.html" title="lib/Conversion/StandardTo\lLLVM/StandardToLLVM.cpp" alt="" coords="1429,95,1615,136"/>
+<area shape="rect" id="node10" href="$VectorToSCF_8cpp.html" title="lib/Conversion/VectorToSCF\l/VectorToSCF.cpp" alt="" coords="1639,95,1829,136"/>
+<area shape="rect" id="node11" href="$CodegenStrategy_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/CodegenStrategy.cpp" alt="" coords="1853,95,2076,136"/>
+<area shape="rect" id="node12" href="$MlirOptMain_8cpp.html" title="lib/Support/MlirOptMain.cpp" alt="" coords="2100,102,2283,129"/>
+<area shape="rect" id="node13" href="$BufferDeallocation_8cpp.html" title="lib/Transforms/BufferDeallocation.cpp" alt="" coords="2307,102,2548,129"/>
+<area shape="rect" id="node14" href="$Transforms_2Bufferize_8cpp.html" title="lib/Transforms/Bufferize.cpp" alt="" coords="2573,102,2759,129"/>
+<area shape="rect" id="node15" href="$BufferOptimizations_8cpp.html" title="lib/Transforms/BufferOptimizations.cpp" alt="" coords="2784,102,3033,129"/>
+<area shape="rect" id="node16" href="$BufferResultsToOutParams_8cpp.html" title="lib/Transforms/BufferResults\lToOutParams.cpp" alt="" coords="3058,95,3247,136"/>
+<area shape="rect" id="node17" href="$BufferUtils_8cpp.html" title="lib/Transforms/BufferUtils.cpp" alt="" coords="3272,102,3468,129"/>
+<area shape="rect" id="node18" href="$Canonicalizer_8cpp.html" title="lib/Transforms/Canonicalizer.cpp" alt="" coords="3493,102,3706,129"/>
+<area shape="rect" id="node19" href="$CopyRemoval_8cpp.html" title="lib/Transforms/CopyRemoval.cpp" alt="" coords="3731,102,3948,129"/>
+<area shape="rect" id="node20" href="$CSE_8cpp.html" title="lib/Transforms/CSE.cpp" alt="" coords="3973,102,4135,129"/>
+<area shape="rect" id="node21" href="$Inliner_8cpp.html" title="lib/Transforms/Inliner.cpp" alt="" coords="4160,102,4329,129"/>
+<area shape="rect" id="node22" href="$LoopCoalescing_8cpp.html" title="lib/Transforms/LoopCoalescing.cpp" alt="" coords="4354,102,4581,129"/>
+<area shape="rect" id="node23" href="$LoopFusion_8cpp.html" title="lib/Transforms/LoopFusion.cpp" alt="" coords="4605,102,4807,129"/>
+<area shape="rect" id="node24" href="$LoopInvariantCodeMotion_8cpp.html" title="lib/Transforms/LoopInvariant\lCodeMotion.cpp" alt="" coords="4831,95,5018,136"/>
+<area shape="rect" id="node25" href="$MemRefDataFlowOpt_8cpp.html" title="lib/Transforms/MemRefData\lFlowOpt.cpp" alt="" coords="5042,95,5229,136"/>
+<area shape="rect" id="node26" href="$NormalizeMemRefs_8cpp.html" title="lib/Transforms/Normalize\lMemRefs.cpp" alt="" coords="5253,95,5421,136"/>
+<area shape="rect" id="node27" href="$OpStats_8cpp.html" title="lib/Transforms/OpStats.cpp" alt="" coords="5445,102,5628,129"/>
+<area shape="rect" id="node28" href="$ParallelLoopCollapsing_8cpp.html" title="lib/Transforms/ParallelLoop\lCollapsing.cpp" alt="" coords="5652,95,5832,136"/>
+<area shape="rect" id="node29" href="$PipelineDataTransfer_8cpp.html" title="lib/Transforms/PipelineData\lTransfer.cpp" alt="" coords="5856,95,6039,136"/>
+<area shape="rect" id="node30" href="$SCCP_8cpp.html" title="lib/Transforms/SCCP.cpp" alt="" coords="6063,102,6235,129"/>
+<area shape="rect" id="node31" href="$StripDebugInfo_8cpp.html" title="lib/Transforms/StripDebug\lInfo.cpp" alt="" coords="6259,95,6433,136"/>
+<area shape="rect" id="node32" href="$SymbolDCE_8cpp.html" title="lib/Transforms/SymbolDCE.cpp" alt="" coords="6457,102,6664,129"/>
+</map>

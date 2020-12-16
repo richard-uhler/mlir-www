@@ -1,0 +1,11 @@
+<map id="lib/Dialect/Linalg/Transforms/PassDetail.h" name="lib/Dialect/Linalg/Transforms/PassDetail.h">
+<area shape="rect" id="node2" href="$Dialect_2Linalg_2Transforms_2Bufferize_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Bufferize.cpp" alt="" coords="5,95,179,136"/>
+<area shape="rect" id="node3" href="$DropUnitDims_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/DropUnitDims.cpp" alt="" coords="203,95,407,136"/>
+<area shape="rect" id="node4" href="$ElementwiseToLinalg_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/ElementwiseToLinalg.cpp" alt="" coords="432,95,677,136"/>
+<area shape="rect" id="node5" href="$Fusion_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Fusion.cpp" alt="" coords="701,95,861,136"/>
+<area shape="rect" id="node6" href="$FusionOnTensors_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/FusionOnTensors.cpp" alt="" coords="885,95,1109,136"/>
+<area shape="rect" id="node7" href="$Generalization_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Generalization.cpp" alt="" coords="1134,95,1338,136"/>
+<area shape="rect" id="node8" href="$Loops_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Loops.cpp" alt="" coords="1362,95,1518,136"/>
+<area shape="rect" id="node9" href="$Promotion_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Promotion.cpp" alt="" coords="1542,95,1722,136"/>
+<area shape="rect" id="node10" href="$Tiling_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Tiling.cpp" alt="" coords="1747,95,1899,136"/>
+</map>

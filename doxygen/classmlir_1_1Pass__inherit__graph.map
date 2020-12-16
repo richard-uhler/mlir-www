@@ -1,0 +1,9 @@
+<map id="mlir::Pass" name="mlir::Pass">
+<area shape="rect" id="node2" href="$classmlir_1_1OperationPass.html" title="Pass to transform an operation of a specific type. " alt="" coords="136,59,273,101"/>
+<area shape="rect" id="node3" href="$classmlir_1_1OperationPass.html" title="mlir::OperationPass\&lt;\&gt;" alt="" coords="396,20,549,47"/>
+<area shape="rect" id="node6" href="$classmlir_1_1OperationPass.html" title="mlir::OperationPass\l\&lt; FuncOp \&gt;" alt="" coords="404,90,541,131"/>
+<area shape="rect" id="node8" href="$classmlir_1_1OperationPass_3_01void_01_4.html" title="Pass to transform an operation. " alt="" coords="136,177,273,218"/>
+<area shape="rect" id="node4" href="$classmlir_1_1PassWrapper.html" title="mlir::PassWrapper\&lt;\l OpToOpPassAdaptor,\l OperationPass\&lt;\&gt; \&gt;" alt="" coords="599,5,753,61"/>
+<area shape="rect" id="node5" href="$classmlir_1_1detail_1_1OpToOpPassAdaptor.html" title="An adaptor pass used to run operation passes over nested operations. " alt="" coords="803,13,972,54"/>
+<area shape="rect" id="node7" href="$classmlir_1_1FunctionPass.html" title="A model for providing function pass specific utilities. " alt="" coords="611,97,741,124"/>
+</map>

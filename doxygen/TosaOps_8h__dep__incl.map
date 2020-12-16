@@ -1,0 +1,9 @@
+<map id="include/mlir/Dialect/Tosa/IR/TosaOps.h" name="include/mlir/Dialect/Tosa/IR/TosaOps.h">
+<area shape="rect" id="node2" href="$QuantUtils_8h.html" title="include/mlir/Dialect\l/Tosa/Utils/QuantUtils.h" alt="" coords="169,95,332,136"/>
+<area shape="rect" id="node3" href="$TosaOps_8cpp.html" title="lib/Dialect/Tosa/IR\l/TosaOps.cpp" alt="" coords="5,184,136,225"/>
+<area shape="rect" id="node4" href="$TosaMakeBroadcastable_8cpp.html" title="lib/Dialect/Tosa/Transforms\l/TosaMakeBroadcastable.cpp" alt="" coords="328,184,523,225"/>
+<area shape="rect" id="node6" href="$InitAllDialects_8h.html" title="include/mlir/InitAllDialects.h" alt="" coords="528,102,712,129"/>
+<area shape="rect" id="node5" href="$QuantUtils_8cpp.html" title="lib/Dialect/Tosa/Utils\l/QuantUtils.cpp" alt="" coords="160,184,304,225"/>
+<area shape="rect" id="node7" href="$Registration_8cpp.html" title="lib/CAPI/Registration\l/Registration.cpp" alt="" coords="547,184,693,225"/>
+<area shape="rect" id="node8" href="$JitRunner_8cpp.html" title="lib/ExecutionEngine\l/JitRunner.cpp" alt="" coords="717,184,854,225"/>
+</map>

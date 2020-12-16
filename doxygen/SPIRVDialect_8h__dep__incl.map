@@ -1,0 +1,29 @@
+<map id="include/mlir/Dialect/SPIRV/SPIRVDialect.h" name="include/mlir/Dialect/SPIRV/SPIRVDialect.h">
+<area shape="rect" id="node2" href="$InitAllDialects_8h.html" title="include/mlir/InitAllDialects.h" alt="" coords="69,109,253,136"/>
+<area shape="rect" id="node5" href="$ConvertGPUToSPIRV_8cpp.html" title="lib/Conversion/GPUToSPIRV\l/ConvertGPUToSPIRV.cpp" alt="" coords="277,102,471,143"/>
+<area shape="rect" id="node6" href="$ConvertGPUToSPIRVPass_8cpp.html" title="lib/Conversion/GPUToSPIRV\l/ConvertGPUToSPIRVPass.cpp" alt="" coords="496,102,708,143"/>
+<area shape="rect" id="node7" href="$ConvertGPULaunchFuncToVulkanLaunchFunc_8cpp.html" title="lib/Conversion/GPUToVulkan\l/ConvertGPULaunchFuncToVulkanLaunch\lFunc.cpp" alt="" coords="733,95,1002,151"/>
+<area shape="rect" id="node8" href="$LinalgToSPIRV_8cpp.html" title="lib/Conversion/LinalgToSPIRV\l/LinalgToSPIRV.cpp" alt="" coords="1027,102,1225,143"/>
+<area shape="rect" id="node9" href="$LinalgToSPIRVPass_8cpp.html" title="lib/Conversion/LinalgToSPIRV\l/LinalgToSPIRVPass.cpp" alt="" coords="1249,102,1448,143"/>
+<area shape="rect" id="node10" href="$SCFToSPIRV_8cpp.html" title="lib/Conversion/SCFToSPIRV\l/SCFToSPIRV.cpp" alt="" coords="1473,102,1665,143"/>
+<area shape="rect" id="node11" href="$ConvertSPIRVToLLVM_8cpp.html" title="lib/Conversion/SPIRVToLLVM\l/ConvertSPIRVToLLVM.cpp" alt="" coords="1689,102,1888,143"/>
+<area shape="rect" id="node12" href="$ConvertSPIRVToLLVMPass_8cpp.html" title="lib/Conversion/SPIRVToLLVM\l/ConvertSPIRVToLLVMPass.cpp" alt="" coords="1912,102,2129,143"/>
+<area shape="rect" id="node13" href="$ConvertStandardToSPIRV_8cpp.html" title="lib/Conversion/StandardTo\lSPIRV/ConvertStandardToSPIRV.cpp" alt="" coords="2153,102,2400,143"/>
+<area shape="rect" id="node14" href="$ConvertStandardToSPIRVPass_8cpp.html" title="lib/Conversion/StandardTo\lSPIRV/ConvertStandardToSPIRVPass.cpp" alt="" coords="2424,102,2700,143"/>
+<area shape="rect" id="node15" href="$LegalizeStandardForSPIRV_8cpp.html" title="lib/Conversion/StandardTo\lSPIRV/LegalizeStandardForSPIRV.cpp" alt="" coords="2724,102,2976,143"/>
+<area shape="rect" id="node16" href="$VectorToSPIRV_8cpp.html" title="lib/Conversion/VectorToSPIRV\l/VectorToSPIRV.cpp" alt="" coords="3001,102,3203,143"/>
+<area shape="rect" id="node17" href="$LayoutUtils_8cpp.html" title="lib/Dialect/SPIRV/Layout\lUtils.cpp" alt="" coords="3227,102,3395,143"/>
+<area shape="rect" id="node18" href="$ModuleCombiner_8cpp.html" title="lib/Dialect/SPIRV/Linking\l/ModuleCombiner/ModuleCombiner.cpp" alt="" coords="3419,102,3670,143"/>
+<area shape="rect" id="node19" href="$SPIRVCanonicalization_8cpp.html" title="lib/Dialect/SPIRV/SPIRVCanonicalization.cpp" alt="" coords="3694,109,3985,136"/>
+<area shape="rect" id="node20" href="$SPIRVDialect_8cpp.html" title="lib/Dialect/SPIRV/SPIRVDialect.cpp" alt="" coords="4009,109,4245,136"/>
+<area shape="rect" id="node21" href="$SPIRVLowering_8cpp.html" title="lib/Dialect/SPIRV/SPIRVLowering.cpp" alt="" coords="4269,109,4516,136"/>
+<area shape="rect" id="node22" href="$SPIRVOps_8cpp.html" title="lib/Dialect/SPIRV/SPIRVOps.cpp" alt="" coords="4541,109,4759,136"/>
+<area shape="rect" id="node23" href="$SPIRVTypes_8cpp.html" title="lib/Dialect/SPIRV/SPIRVTypes.cpp" alt="" coords="4784,109,5015,136"/>
+<area shape="rect" id="node24" href="$DecorateSPIRVCompositeTypeLayoutPass_8cpp.html" title="lib/Dialect/SPIRV/Transforms\l/DecorateSPIRVCompositeTypeLayout\lPass.cpp" alt="" coords="5039,95,5290,151"/>
+<area shape="rect" id="node25" href="$LowerABIAttributesPass_8cpp.html" title="lib/Dialect/SPIRV/Transforms\l/LowerABIAttributesPass.cpp" alt="" coords="5314,102,5509,143"/>
+<area shape="rect" id="node26" href="$UpdateVCEPass_8cpp.html" title="lib/Dialect/SPIRV/Transforms\l/UpdateVCEPass.cpp" alt="" coords="5533,102,5727,143"/>
+<area shape="rect" id="node27" href="$Serialization_8cpp.html" title="lib/Target/SPIRV/Serialization.cpp" alt="" coords="5751,109,5973,136"/>
+<area shape="rect" id="node28" href="$TranslateRegistration_8cpp.html" title="lib/Target/SPIRV/Translate\lRegistration.cpp" alt="" coords="5997,102,6175,143"/>
+<area shape="rect" id="node3" href="$Registration_8cpp.html" title="lib/CAPI/Registration\l/Registration.cpp" alt="" coords="5,199,151,240"/>
+<area shape="rect" id="node4" href="$JitRunner_8cpp.html" title="lib/ExecutionEngine\l/JitRunner.cpp" alt="" coords="175,199,312,240"/>
+</map>

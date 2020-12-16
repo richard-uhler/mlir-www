@@ -1,0 +1,12 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classmlir_1_1python_1_1BaseContextObject.html" title="Base class for all objects that directly or indirectly depend on an MlirContext. " alt="" coords="18,150,193,191"/>
+<area shape="rect" id="node2" href="$classmlir_1_1python_1_1PyAttribute.html" title="Wrapper around the generic MlirAttribute. " alt="" coords="279,5,442,32"/>
+<area shape="rect" id="node3" href="$classmlir_1_1python_1_1PyDialectDescriptor.html" title="Wrapper around an MlirDialect. " alt="" coords="253,56,468,83"/>
+<area shape="rect" id="node4" href="$classmlir_1_1python_1_1PyDialects.html" title="User&#45;level object for accessing dialects with dotted syntax such as: ctx.dialect.std. " alt="" coords="279,107,442,133"/>
+<area shape="rect" id="node5" href="$classmlir_1_1python_1_1PyLocation.html" title="Wrapper around an MlirLocation. " alt="" coords="279,157,442,184"/>
+<area shape="rect" id="node6" href="$classmlir_1_1python_1_1PyModule.html" title="mlir::python::PyModule" alt="" coords="283,208,439,235"/>
+<area shape="rect" id="node7" href="$classmlir_1_1python_1_1PyOperation.html" title="mlir::python::PyOperation" alt="" coords="275,309,446,336"/>
+<area shape="rect" id="node8" href="$classmlir_1_1python_1_1PyType.html" title="Wrapper around the generic MlirType. " alt="" coords="289,259,432,285"/>
+<area shape="rect" id="node9" href="$classmlir_1_1python_1_1PyOperationBase.html" title="Base class for PyOperation and PyOpView which exposes the primary, user visible methods for manipulat..." alt="" coords="5,335,205,361"/>
+<area shape="rect" id="node10" href="$classmlir_1_1python_1_1PyOpView.html" title="A PyOpView is equivalent to the C++ &quot;Op&quot; wrappers: these are the basis for providing more instance&#45;sp..." alt="" coords="281,360,441,387"/>
+</map>

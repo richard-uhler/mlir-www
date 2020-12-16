@@ -1,0 +1,4 @@
+<map id="mlir::linalg::Vectorize&lt; LinalgOpType &gt;" name="mlir::linalg::Vectorize&lt; LinalgOpType &gt;">
+<area shape="rect" id="node2" href="$structmlir_1_1linalg_1_1Transformation.html" title="Abstract Transformation class applied in a sequence that also handles state through markers..." alt="" coords="5,95,181,121"/>
+<area shape="rect" id="node3" href="$structmlir_1_1linalg_1_1LinalgMarker.html" title="Helper class to control common attribute matching and setting behavior. " alt="" coords="12,5,175,32"/>
+</map>

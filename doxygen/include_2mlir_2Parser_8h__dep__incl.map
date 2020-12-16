@@ -1,0 +1,19 @@
+<map id="include/mlir/Parser.h" name="include/mlir/Parser.h">
+<area shape="rect" id="node2" href="$IR_8cpp.html" title="lib/CAPI/IR/IR.cpp" alt="" coords="173,87,305,114"/>
+<area shape="rect" id="node3" href="$LinalgTypes_8cpp.html" title="lib/Dialect/Linalg\l/IR/LinalgTypes.cpp" alt="" coords="329,80,468,121"/>
+<area shape="rect" id="node4" href="$SPIRVDialect_8cpp.html" title="lib/Dialect/SPIRV/SPIRVDialect.cpp" alt="" coords="493,87,729,114"/>
+<area shape="rect" id="node5" href="$JitRunner_8cpp.html" title="lib/ExecutionEngine\l/JitRunner.cpp" alt="" coords="753,80,890,121"/>
+<area shape="rect" id="node6" href="$Lexer_8h.html" title="lib/Parser/Lexer.h" alt="" coords="914,87,1038,114"/>
+<area shape="rect" id="node13" href="$Parser_8cpp.html" title="lib/Parser/Parser.cpp" alt="" coords="1032,326,1176,353"/>
+<area shape="rect" id="node16" href="$MlirOptMain_8cpp.html" title="lib/Support/MlirOptMain.cpp" alt="" coords="1114,87,1297,114"/>
+<area shape="rect" id="node17" href="$TranslateRegistration_8cpp.html" title="lib/Target/SPIRV/Translate\lRegistration.cpp" alt="" coords="1321,80,1500,121"/>
+<area shape="rect" id="node18" href="$Translation_8cpp.html" title="lib/Translation/Translation.cpp" alt="" coords="1525,87,1721,114"/>
+<area shape="rect" id="node7" href="$ParserState_8h.html" title="lib/Parser/ParserState.h" alt="" coords="687,169,849,196"/>
+<area shape="rect" id="node15" href="$Lexer_8cpp.html" title="lib/Parser/Lexer.cpp" alt="" coords="900,169,1039,196"/>
+<area shape="rect" id="node8" href="$lib_2Parser_2Parser_8h.html" title="lib/Parser/Parser.h" alt="" coords="648,244,779,271"/>
+<area shape="rect" id="node9" href="$AffineParser_8cpp.html" title="lib/Parser/AffineParser.cpp" alt="" coords="5,326,184,353"/>
+<area shape="rect" id="node10" href="$AttributeParser_8cpp.html" title="lib/Parser/AttributeParser.cpp" alt="" coords="209,326,402,353"/>
+<area shape="rect" id="node11" href="$DialectSymbolParser_8cpp.html" title="lib/Parser/DialectSymbol\lParser.cpp" alt="" coords="426,319,593,360"/>
+<area shape="rect" id="node12" href="$LocationParser_8cpp.html" title="lib/Parser/LocationParser.cpp" alt="" coords="617,326,810,353"/>
+<area shape="rect" id="node14" href="$Parser_2TypeParser_8cpp.html" title="lib/Parser/TypeParser.cpp" alt="" coords="835,326,1008,353"/>
+</map>

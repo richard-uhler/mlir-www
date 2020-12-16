@@ -1,0 +1,9 @@
+<map id="mlir::pdl_to_pdl_interp::TypeAnswer" name="mlir::pdl_to_pdl_interp::TypeAnswer">
+<area shape="rect" id="node2" href="$classmlir_1_1pdl__to__pdl__interp_1_1PredicateBase.html" title="mlir::pdl_to_pdl_interp\l::PredicateBase\&lt; TypeAnswer,\l Qualifier, Type, Predicates\l::TypeAnswer \&gt;" alt="" coords="956,41,1160,112"/>
+<area shape="rect" id="node3" href="$classmlir_1_1pdl__to__pdl__interp_1_1Qualifier.html" title="An ordinal predicate consists of a &quot;Question&quot; and a set of acceptable &quot;Answers&quot; (later converted to o..." alt="" coords="345,5,495,47"/>
+<area shape="rect" id="node4" href="$classmlir_1_1StorageUniquer_1_1BaseStorage.html" title="This class acts as the base storage that all storage classes must derived from. " alt="" coords="5,31,147,72"/>
+<area shape="rect" id="node6" href="$classmlir_1_1TypeStorage.html" title="Base storage class appearing in a Type. " alt="" coords="196,63,321,90"/>
+<area shape="rect" id="node5" href="$classmlir_1_1Type.html" title="Instances of the Type class are uniqued, have an immutable identifier and an optional mutable compone..." alt="" coords="575,63,655,90"/>
+<area shape="rect" id="node7" href="$classmlir_1_1pdl__to__pdl__interp_1_1PredicateBase.html" title="Base class for all predicates, used to allow efficient pointer comparison. " alt="" coords="519,114,711,170"/>
+<area shape="rect" id="node8" href="$classBaseT.html" title="BaseT" alt="" coords="229,121,289,147"/>
+</map>

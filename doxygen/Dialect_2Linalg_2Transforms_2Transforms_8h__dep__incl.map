@@ -1,0 +1,16 @@
+<map id="include/mlir/Dialect/Linalg/Transforms/Transforms.h" name="include/mlir/Dialect/Linalg/Transforms/Transforms.h">
+<area shape="rect" id="node2" href="$CodegenStrategy_8h.html" title="include/mlir/Dialect\l/Linalg/Transforms/CodegenStrategy.h" alt="" coords="5,95,252,136"/>
+<area shape="rect" id="node4" href="$LinalgToStandard_8cpp.html" title="lib/Conversion/LinalgToStandard\l/LinalgToStandard.cpp" alt="" coords="275,95,486,136"/>
+<area shape="rect" id="node5" href="$Dialect_2Linalg_2Transforms_2Bufferize_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Bufferize.cpp" alt="" coords="510,95,683,136"/>
+<area shape="rect" id="node6" href="$Fusion_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Fusion.cpp" alt="" coords="707,95,867,136"/>
+<area shape="rect" id="node7" href="$FusionOnTensors_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/FusionOnTensors.cpp" alt="" coords="891,95,1115,136"/>
+<area shape="rect" id="node8" href="$Generalization_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Generalization.cpp" alt="" coords="1140,95,1344,136"/>
+<area shape="rect" id="node9" href="$Interchange_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Interchange.cpp" alt="" coords="1369,95,1558,136"/>
+<area shape="rect" id="node10" href="$Loops_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Loops.cpp" alt="" coords="1583,95,1739,136"/>
+<area shape="rect" id="node11" href="$Promotion_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Promotion.cpp" alt="" coords="1763,95,1943,136"/>
+<area shape="rect" id="node12" href="$Sparsification_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Sparsification.cpp" alt="" coords="1967,95,2167,136"/>
+<area shape="rect" id="node13" href="$Tiling_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Tiling.cpp" alt="" coords="2191,95,2343,136"/>
+<area shape="rect" id="node14" href="$Dialect_2Linalg_2Transforms_2Transforms_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Transforms.cpp" alt="" coords="2367,95,2554,136"/>
+<area shape="rect" id="node15" href="$Vectorization_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Vectorization.cpp" alt="" coords="2578,95,2775,136"/>
+<area shape="rect" id="node3" href="$CodegenStrategy_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/CodegenStrategy.cpp" alt="" coords="17,184,240,225"/>
+</map>
